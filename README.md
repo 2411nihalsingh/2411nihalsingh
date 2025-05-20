@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/4M7IWwP.gif" width="100%" alt="Welcome Banner"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fleorrose%2Fleorrose&psig=AOvVaw2qGPWK2y91XpDVuT9h9ngT&ust=1747832360427000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJigo4yNso0DFQAAAAAdAAAAABAE"/>
 </p>
 
 <!-- Introduction -->
