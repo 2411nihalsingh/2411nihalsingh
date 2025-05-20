@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif"/>
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
 </p>
 
 <!-- Introduction -->
