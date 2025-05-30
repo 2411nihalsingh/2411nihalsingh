@@ -1,15 +1,18 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
-</p>
-
-<!-- Introduction -->
-<h1 align="center">Hello World!👋, I'm Nihal</h1>
-<h3 align="center">🚀 Passionate AI/ML Developer | MERN Stack Enthusiast | Open Source Contributor</h3>
-
-<p align="center">
-  <a href="https://github.com/nihal-profile"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Full+Stack+Developer;Problem+Solver;Open+Source+Lover" /></a>
-</p>
+<table>
+  <tr>
+    <td align="left" width="60%">
+      <h1>Hello World! 👋, I'm <span style="color:#F75C7E">Nihal</span></h1>
+      <h3>🚀 Passionate AI/ML Developer | MERN Stack Enthusiast | Open Source Contributor</h3>
+      <a href="https://github.com/nihal-profile">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&center=false&vCenter=true&width=435&lines=AI+Enthusiast;Full+Stack+Developer;Problem+Solver;Open+Source+Lover" />
+      </a>
+    </td>
+    <td align="right" width="40%">
+      <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
