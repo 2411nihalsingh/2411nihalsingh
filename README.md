@@ -13,11 +13,11 @@
 </p>
 
 ---
-<h2 align="center">Solved 400+ Problems on Various Coding Platforms</h2>
+<h2 align="center">Solved 400+ Problems on Various Coding Platforms Like Leetcode,Coding Ninjas & GFG</h2>
 
 <p align="center">
-  <img src="assets/coding1.png" alt="LeetCode" width="165" />
-  <img src="assets/coding3.png" alt="Codeforces" width="165"/>
+  <img src="assets/coding1.png" alt="LeetCode" " />
+  <img src="assets/coding3.png" alt="Codeforces" />
   <img src="assets/coding2.png" alt="HackerRank" />
  
 </p>
