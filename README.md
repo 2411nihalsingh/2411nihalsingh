@@ -51,13 +51,6 @@
 | 📦 **Student Marks Prediction** | A computational ML model that uses ML algorithm to predict marks of a student | `ML`, `Python`, `Streamlit`, `Regression` |
 
 ---
-
-### 🎯 Fun Facts
-- 🔭 I’m currently working on a multi-modal AI project!
-- 🎓 I'm a 3rd-year AIML student at MITS Gwalior
-- 🧗 I try to push myself outside my comfort zone
-
----
 ### 📫 Connect with me  
 <p align="center">
   <a href="https://www.linkedin.com/in/nihal-singh-bhadoriya-568235299/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
