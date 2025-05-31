@@ -16,9 +16,9 @@
 <h2 align="center">Solved 400+ Problems on Various Coding Platforms</h2>
 
 <p align="center">
-  <img src="assets/coding1.png" alt="LeetCode" width="60" height="60"/>
-  <img src="assets/coding2.png" alt="HackerRank" width="60" height="60"/>
-  <img src="assets/coding3.png" alt="Codeforces" width="90" height="60"/>
+  <img src="assets/coding1.png" alt="LeetCode" width="165" />
+  <img src="assets/coding2.png" alt="HackerRank" />
+  <img src="assets/coding3.png" alt="Codeforces" width="165"/>
  
 </p>
 
