@@ -13,7 +13,16 @@
 </p>
 
 ---
+<h2 align="center">Solved 400+ Problems on Various Coding Platforms</h2>
 
+<p align="center">
+  <img src="assets/coding1.png" alt="LeetCode" width="60" height="60"/>
+  <img src="assets/coding2.png" alt="HackerRank" width="60" height="60"/>
+  <img src="assets/coding3.png" alt="Codeforces" width="90" height="60"/>
+ 
+</p>
+
+---
 ### 📫 Connect with me  
 <p align="center">
   <a href="https://www.linkedin.com/in/nihal-singh-bhadoriya-568235299/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
