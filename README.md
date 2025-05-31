@@ -33,12 +33,8 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=2411nihalsingh&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2411nihalsingh&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2411nihalsingh&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true" height="100"/>
 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=2411nihalsingh&theme=tokyo-night" />
 </p>
 
 
@@ -59,14 +55,6 @@
 - 🎓 I'm a 3rd-year AIML student at MITS Gwalior
 - 🧗 I try to push myself outside my comfort zone
 
----
 
-### 💡 Quote of the Day
-<p align="center"><i>"The best way to predict the future is to invent it."</i> – Alan Kay</p>
 
 ---
-
-### 📽️ Just a cool GIF for vibes
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
-</p>
