@@ -55,7 +55,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nihal-singh-bhadoriya-568235299/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="mailto:nihalbhadoriya24@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href=""><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://nihal-personal-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black?logo=twitter&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
