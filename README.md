@@ -32,13 +32,14 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihal-profile&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihal-profile&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=2411nihalsingh&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2411nihalsingh&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nihal-profile&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=2411nihalsingh&theme=tokyo-night" />
 </p>
+
 
 ---
 
