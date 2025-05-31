@@ -17,8 +17,8 @@
 
 <p align="center">
   <img src="assets/coding1.png" alt="LeetCode" width="165" />
-  <img src="assets/coding2.png" alt="HackerRank" />
   <img src="assets/coding3.png" alt="Codeforces" width="165"/>
+  <img src="assets/coding2.png" alt="HackerRank" />
  
 </p>
 
