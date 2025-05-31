@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width=600px>
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width=500px>
 </p>
 <p align="center"><strong><em>"Brains for logic, AI for magic"</em></strong></p>
 
