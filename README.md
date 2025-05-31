@@ -22,13 +22,6 @@
  
 </p>
 
----
-### 📫 Connect with me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/nihal-singh-bhadoriya-568235299/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:nihalbhadoriya24@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href=""><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white&style=for-the-badge" /></a>
-</p>
 
 ---
 
@@ -49,13 +42,13 @@
 
 ---
 
-### 🔥 My Projects
+### 🔥Some of my recent projects
 | Name | Description | Tech Stack |
 |------|-------------|------------|
 | 🔍 **AI Resume Analyzer** | NLP-based resume parser and evaluator using Gemini | `Python`, `NLP`, `Streamlit`, `Gemini API` |
-| 🧠 **Super-Resolution GAN** | Enhancing low-res images using deep learning | `TensorFlow`, `Keras`, `OpenCV` |
 | 🛡 **SecureNet MLOps** | Intrusion detection with MLOps tools like DVC, MLflow | `Scikit-learn`, `MLflow`, `DVC`, `BentoML` |
-| 📦 **MERN Task Manager** | A responsive task app using full-stack tech | `MongoDB`, `Express`, `React`, `Node` |
+| 🧠 **Super-Resolution GAN** | Enhancing low-res images using deep learning | `TensorFlow`, `Keras`, `OpenCV` |
+| 📦 **Student Marks Prediction** | A computational ML model that uses ML algorithm to predict marks of a student | `ML`, `Python`, `Streamlit`, `Regression` |
 
 ---
 
@@ -64,6 +57,12 @@
 - 🎓 I'm a 3rd-year AIML student at MITS Gwalior
 - 🧗 I try to push myself outside my comfort zone
 
-
+---
+### 📫 Connect with me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/nihal-singh-bhadoriya-568235299/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:nihalbhadoriya24@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href=""><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white&style=for-the-badge" /></a>
+</p>
 
 ---
